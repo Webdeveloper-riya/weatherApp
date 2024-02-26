@@ -5,7 +5,6 @@ import Temapp from "./component/tempapp";
 function App() {
   return (
     <div className="App">
-      <h1>My wether app</h1>
       <Temapp></Temapp>
     </div>
   );
