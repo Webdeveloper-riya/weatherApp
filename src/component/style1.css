@@ -1,0 +1,66 @@
+.backgounimg1{
+  /* background-image: url(backgroundimg.jpg); */
+  /* background-repeat: no-repeat; */
+  /* box-shadow: 2px 4px 3px rgba(0,0,0,0.2); */
+  /* background-position:center; */
+  /* height: 700px; */
+  /* width: 600px; */
+  /* border-radius: 50%; */
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 1%;
+  /* padding-left: 2%; */
+  /* margin-top: -8%; */
+  margin-left: 25%;
+  /* border: 3px solid transparent; */
+  /* border-image: linear-gradient(#0ff,#f0f); */
+  /* border-image-slice: 3; */
+
+}
+.box{
+  /* background-color:rgba(219,225,227,0.4); */
+  background: linear-gradient(50deg,#00ffff,#f0f);
+  height: 400px;
+  width: 300px;
+  /* background-position:center; */
+  align-items: center;
+  justify-content: center;
+  /* padding: 2%; */
+  /* margin-left: 10%; */
+  /* margin-top: 10%; */
+  margin-right: 38%;
+  padding: 5%;
+  border-radius: 2%;
+}
+.inputData{
+padding: 5px;
+border-radius: 10px;
+box-shadow: 2px 4px 3px rgba(0,0,0,0.2);
+border: 3px solid transparent;
+/* border-image: linear-gradient(50deg,#0ff,#f0f); */
+/* border-image-slice: 3; */
+}
+.inputData input{
+padding: 5px;
+border-radius: 10px;
+width: 100%;
+/* font-size: 15px; */
+font-weight: 900;
+}
+.ErrorMessage{
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.info{
+  /* background: linear-gradient(50deg,#00ffff,#f0f); */
+  background-color:rgba(219,225,227,0.4);
+  height: 190px;
+  border-radius: 10px;
+  margin-top: 4%;
+  padding: 2% 4%;
+  box-shadow: 2px 4px 3px rgba(0,0,0,0.2);
+}
+.fas{
+  font-size: 30px;
+}
